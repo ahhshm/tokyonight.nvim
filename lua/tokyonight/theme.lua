@@ -84,7 +84,7 @@ function M.setup(config)
 		-- Uncomment and edit if you want more specific syntax highlighting.
 
 		Constant = { fg = c.orange }, -- (preferred) any constant
-		String = { fg = c.yellow }, --   a string constant: "this is a string"
+		String = { fg = c.green }, --   a string constant: "this is a string"
 		Character = { fg = c.green }, --  a character constant: 'c', '\n'
 		-- Number        = { }, --   a number constant: 234, 0xff
 		-- Boolean       = { }, --  a boolean constant: TRUE, false
